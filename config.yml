@@ -33,28 +33,28 @@ steps:
 # Step 2: Add Flour
 # - title: # the title of the step, shown to the learner in the course progress page
 #  add flour
-#  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
+# Make sure backing flour
 #  actions: # a list of the actions that will occur when the step is triggered by an event
 #  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 # Step 3: Stir
 # - title: # the title of the step, shown to the learner in the course progress page
 #  description: # a description of the step, shown to the learner in the course progress page
-#  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
+#  stir with a wooden spoon
 #  actions: # a list of the actions that will occur when the step is triggered by an event
 #  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 # Step 4: Put on baking sheet. 
 # - title: # the title of the step, shown to the learner in the course progress page
 #  description: # a description of the step, shown to the learner in the course progress page
-#  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
+#  Grease baking sheet. 
 #  actions: # a list of the actions that will occur when the step is triggered by an event
 #  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 # Step 5: Bake
 # - title: # the title of the step, shown to the learner in the course progress page
 #  description: # a description of the step, shown to the learner in the course progress page
-#  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
+#  oven needs to be on 350 degrees
 #  actions: # a list of the actions that will occur when the step is triggered by an event
 #  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
